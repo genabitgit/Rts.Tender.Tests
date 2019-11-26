@@ -1,4 +1,4 @@
-# Test task. Smoke tests of the search form on the website https://corp.rts-tender.ru/?fl=True
+# Smoke tests of the search form on the website https://corp.rts-tender.ru/?fl=True
 
 ### The project is implemented using technologies: 
 * Java 
